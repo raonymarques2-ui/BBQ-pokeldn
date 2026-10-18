@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "name": "Union Circle BBQ plugins",
+  "homepage": "https://github.com/raonymarques2-ui/BBQ-pokeldn",
+  "plugins": [
+    {
+      "id": "union-circle-bbq",
+      "name": "Union Circle BBQ Host",
+      "version": "0.1.2",
+      "description": "Experimental single-client Union Circle host with a computed BP goal and a built-in generic world.",
+      "author": "Community project",
+      "api": "1.8",
+      "download": "https://raw.githubusercontent.com/raonymarques2-ui/BBQ-pokeldn/e86ec125bab6f0af272ff32ad2a7b126c3b18e35/dist/union-circle-bbq-0.1.2.pokeplugin",
+      "sha256": "304c9c574850f4e4379a0ac0478a0d1969eefc2f32a5dbec14678bcc2f358834",
+      "size": 63715
+    }
+  ]
+}

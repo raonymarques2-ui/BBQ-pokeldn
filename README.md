@@ -7,6 +7,15 @@ process, PC save, memory editor or private session reference is needed.
 
 ## Download
 
+In PokeLDN, open **Plugins → Sources**, enter
+`raonymarques2-ui/BBQ-pokeldn` and select **Add**. Open **Browse** and install
+**Union Circle BBQ Host**, reviewing the native installation screen. Enable it
+to access its Scarlet/Violet tool. Following the source does not install a
+plugin automatically; newer versions will be offered for review when published.
+The source currently lists experimental version **0.1.2**, with Android
+physical-device validation still pending. Package downloads are pinned to an
+immutable repository commit and verified by PokeLDN using SHA-256.
+
 [Download the experimental Android adaptation (0.1.2)](dist/union-circle-bbq-0.1.2.pokeplugin).
 Choose the raw/download button on GitHub, then install the file in PokeLDN Plugins.
 Windows 0.1.1 was confirmed working; the 0.1.2 Android adaptation still needs a physical-device test.
