@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+*.keys
+settings.json
+*.pcap
+*.pcapng
+*.log
+private-*/
+*.tmp

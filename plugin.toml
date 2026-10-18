@@ -1,0 +1,7 @@
+id = "union-circle-bbq"
+name = "Union Circle BBQ Host"
+version = "0.1.2"
+author = "Community project"
+description = "Experimental single-client Union Circle host with a computed BP goal and a built-in generic world."
+api = "1.8"
+exclude = ["tests", "__pycache__", ".git", ".github", "dist"]
